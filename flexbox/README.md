@@ -65,4 +65,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Ezekiel Moses** - [Moses](https://github.com/Princecodes4115)
